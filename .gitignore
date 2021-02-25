@@ -1,0 +1,4 @@
+*/node_modules/
+*.ini
+*/__pycache__/
+*.py[cod]
